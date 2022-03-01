@@ -1,0 +1,12 @@
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\bin\AspNet_007_EPostaGonder.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\bin\AspNet_007_EPostaGonder.pdb
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\obj\Debug\AspNet_007_EPostaGonder.csprojResolveAssemblyReference.cache
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\obj\Debug\AspNet_007_EPostaGonder.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\obj\Debug\AspNet_007_EPostaGonder.pdb
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\bin\AspNet_007_EPostaGonder.dll.config
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\bin\AspNet_007_EPostaGonder.dll
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\bin\AspNet_007_EPostaGonder.pdb
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\obj\Debug\AspNet_007_EPostaGonder.csproj.AssemblyReference.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\obj\Debug\AspNet_007_EPostaGonder.csproj.CoreCompileInputs.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\obj\Debug\AspNet_007_EPostaGonder.dll
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_007_EPostaGonder\AspNet_007_EPostaGonder\obj\Debug\AspNet_007_EPostaGonder.pdb
